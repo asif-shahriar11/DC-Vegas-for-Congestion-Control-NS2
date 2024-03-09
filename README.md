@@ -10,4 +10,4 @@ average end-to-end delay is just slightly higher.
 
 ## Topology
 
-![An example datacenter topology]([https://drive.google.com/file/d/15ZPwDyq1yUmND_0q1KjNpSjRIdf2Tzv3/view?usp=drive_link](https://drive.google.com/file/d/15ZPwDyq1yUmND_0q1KjNpSjRIdf2Tzv3/view?usp=sharing)https://drive.google.com/file/d/15ZPwDyq1yUmND_0q1KjNpSjRIdf2Tzv3/view?usp=sharing "Datacenter Topology")
+![An example datacenter topology](https://drive.google.com/file/d/15ZPwDyq1yUmND_0q1KjNpSjRIdf2Tzv3/view?usp=sharing "Datacenter Topology")
